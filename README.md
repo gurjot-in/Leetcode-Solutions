@@ -1,3 +1,4 @@
+
 ![Language](https://img.shields.io/badge/Language-Python-orange.svg?logo=Python&logoColor=yellow) ![Update](https://img.shields.io/badge/Update-Weekly-green.svg) ![Progress](https://img.shields.io/badge/progress-N%2F1049-brightgreen.svg) ![License](https://img.shields.io/badge/License-MIT-green.svg) ![Sponsors](https://img.shields.io/badge/Sponsor-0-lightgrey.svg)
 
 # Python solution for Leetcode
@@ -326,3 +327,7 @@ Python solution of problems from [LeetCode](https://leetcode.com/).
 |4|[Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/)| [Python](./1-100q/4.py)|Hard|
 |3|[Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/)| [Python](./1-100q/03.py)|Medium|
 |1|[Two Sum](https://leetcode.com/problems/two-sum/)| [Python](./1-100q/TwoSum.py)|Medium|
+
+# Leetcode-Solutions
+Personal tracking for leetcode progress
+
